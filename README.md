@@ -1,4 +1,5 @@
 # Power-Bi-Hospital-insights-hub-Anaylsis
+
 HOSPITAL_INSIGHTS_HUB – Power BI Project
 
 📌 Overview :- 
@@ -71,7 +72,8 @@ o	Average length of stay (if applicable)
 
 This Power BI report delivers a centralized view of hospital performance and operations, enabling stakeholders to gain insights, track KPIs, and improve healthcare service delivery.
 
-Dashboard
+📊 Dashboard
+
 <img width="1334" height="739" alt="Screenshot 2025-12-26 125649" src="https://github.com/user-attachments/assets/9d2fb017-b099-4f4e-bcae-da5bce88ec5e" />
 
 <img width="1319" height="738" alt="Screenshot 2025-12-26 125708" src="https://github.com/user-attachments/assets/2a982864-13ab-4487-951e-dae625628dcc" />
