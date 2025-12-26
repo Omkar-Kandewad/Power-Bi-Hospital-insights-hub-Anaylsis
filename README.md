@@ -73,7 +73,9 @@ This Power BI report delivers a centralized view of hospital performance and ope
 
 
 <img width="1334" height="739" alt="Screenshot 2025-12-26 125649" src="https://github.com/user-attachments/assets/9d2fb017-b099-4f4e-bcae-da5bce88ec5e" />
+
 <img width="1319" height="738" alt="Screenshot 2025-12-26 125708" src="https://github.com/user-attachments/assets/2a982864-13ab-4487-951e-dae625628dcc" />
+
 <img width="1316" height="738" alt="Screenshot 2025-12-26 125724" src="https://github.com/user-attachments/assets/594cf7e9-92d5-429a-9e02-84dc4a02a3e7" />
 
 
